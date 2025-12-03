@@ -6,6 +6,3 @@ This repository contains code and data to fine-tune a pre-trained BERT-based mod
 It is designed to help you adapt a large language model (LLM) / transformer model (BERT) to your own data for sentiment analysis or similar NLP tasks.  
 
 ---
-
-## 🔧 Repository Structure
-
