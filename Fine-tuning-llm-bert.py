@@ -32,7 +32,7 @@ from transformers import (
 # -----------------------------
 # 2. Load Dataset
 # -----------------------------
-DATA_PATH = "/05-Fine_Tuning_BERT_for_Sentiment/twitter_multi_class_sentiment.csv"
+DATA_PATH = "twitter_multi_class_sentiment.csv"
 df = pd.read_csv(DATA_PATH)
 
 # Basic inspection
